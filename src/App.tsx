@@ -1,4 +1,4 @@
-import React from "react";
+
 
 // Components
 const EventHeader = () => <h1>🏟️ Sports Day Schedule</h1>;
